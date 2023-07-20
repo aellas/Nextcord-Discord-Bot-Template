@@ -1,6 +1,5 @@
 # Easy Nextcord Bot Template 
-+ [Nextcord](https://docs.nextcord.dev/en/stable/) discord bot template
-+ Easy setup 
++ Discord bot template built using [Nextcord](https://docs.nextcord.dev/en/stable/)
 
 # How To Use
 + Clone repo
