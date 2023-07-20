@@ -1,5 +1,6 @@
 # Easy Nextcord Bot Template 
-Easy [nextcord](https://docs.nextcord.dev/en/stable/) discord bot that uses cogs
++ [Nextcord](https://docs.nextcord.dev/en/stable/) discord bot template
++ Easy setup 
 
 # How To Use
 + Clone repo
