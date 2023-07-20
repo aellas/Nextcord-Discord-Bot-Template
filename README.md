@@ -10,9 +10,13 @@ pip install nextcord
 + edit json/configuration.json
 ```json
   {
-    "token": "bot token here (https://discord.com/developers/applications)",
-    "prefix": "prefix here (if not using application commands)",
+    "token": "bot token here",
+    "prefix": "prefix here",
     "owner_name": "owner name here"
 }
+```
++ run main.py
+```python
+python main.py
 ```
   
