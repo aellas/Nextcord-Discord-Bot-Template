@@ -3,9 +3,8 @@
 + Application commands & listener cogs examples
 
 # Setup
-```
-pip intall -r requirements.txt
-```
++ Install requirements 
+`pip intall -r requirements.txt`
 
 
 
