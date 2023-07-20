@@ -33,7 +33,7 @@ if token and prefix and owner_id:
 
     @client.event
     async def on_ready():
-        await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.playing, name=f'cross chat'))
+        await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.playing, name=f'nextcord template'))
     
     if __name__ == "__main__":
         setup_logging()
