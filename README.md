@@ -6,22 +6,5 @@
 + [Python](https://www.python.org/)
 + [Nextcord](https://docs.nextcord.dev/en/stable/)
 
-# How To Use
-+ Clone repo
-+ Install nextcord
-```python
-pip install nextcord
-```
-+ edit json/configuration.json
-```json
-  {
-    "token": "bot token here",
-    "prefix": "prefix here",
-    "owner_name": "owner name here"
-}
-```
-+ run main.py
-```python
-python main.py
-```
-  
+
+
