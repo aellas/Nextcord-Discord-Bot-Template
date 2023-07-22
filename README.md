@@ -1,4 +1,6 @@
+<p align="center">
 **Useful Links**
+</p>
 
 # Nextcord Bot Template
 + Discord bot template built using [Nextcord](https://docs.nextcord.dev/en/stable/)
