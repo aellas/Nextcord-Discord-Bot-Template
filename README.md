@@ -6,17 +6,13 @@
 </p>
 
 # Commands
-```
-Moderation
-/ban
-/kick
-/clear (messages)
-
-Other
-/advanced_userinfo
-/basic_userinfo
-/ping
-/avatar
++ `/ban`
++ `/kick`
++ `/clear (messages)`
++ `/advanced_userinfo`
++ `/basic_userinfo`
++ `/ping`
++ `/avatar`
 ```
 
 # Setup
