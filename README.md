@@ -15,11 +15,15 @@
 <br><b>Misc</b></br>
 `/ping`
 
-# Setup
+# Easy Setup
++ coming soon
+
+# Manual Setup
 + Install [Python](https://www.python.org/)
 + Install requirements `pip intall -r requirements.txt`
 + Edit `/json/configuration.json` and add your [token, prefix & owner_name]
 + Run project `python main.py`
+
 
 # Userinfo Command
 + Upload the emojis located in `misc/emojis` and add each custom emoji to your discord server (bot must be in server to use)
