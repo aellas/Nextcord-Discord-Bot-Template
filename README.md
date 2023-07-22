@@ -1,4 +1,6 @@
-# Easy Nextcord Bot Template 
+**Useful Links**
+
+# Nextcord Bot Template
 + Discord bot template built using [Nextcord](https://docs.nextcord.dev/en/stable/)
 + Application commands & listener cogs examples
 
