@@ -16,7 +16,7 @@
 `/ping`
 
 # Easy Setup
-+ coming soon
++ Coming soon
 
 # Manual Setup
 + Install [Python](https://www.python.org/)
