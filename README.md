@@ -13,7 +13,7 @@
 + `/basic_userinfo`
 + `/ping`
 + `/avatar`
-```
+
 
 # Setup
 + Install [Python](https://www.python.org/)
