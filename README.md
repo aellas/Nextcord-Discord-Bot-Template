@@ -11,6 +11,7 @@
 + `/clear (messages)`
 + `/advanced_userinfo`
 + `/basic_userinfo`
++ `/serverinfo`
 + `/ping`
 + `/avatar`
 
