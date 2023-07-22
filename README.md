@@ -8,8 +8,8 @@
 + Edit `/json/configuration.json` and add your [token, prefix & owner_name]
 + Run project `python main.py`
 
-# Advanced Userinfo Command
-+ Upload the emojis located in `Misc/Emojis` and add each emoji to your discord server (bot must be in server to use)
+# Userinfo Command
++ Upload the emojis located in `misc/emojis` and add each emoji to your discord server (bot must be in server to use)
 + Grab each Emoji's ID, you can do this by using `\:early_supporter` which should give you something like this `<:early_supporter:1132376957959540757>`
 + Edit `cogs/random/userinfo.py` and edit this code
 ```python
@@ -42,7 +42,7 @@
 + Replace each emoji ID with yours!
 
 + Outcome
-![Image](/Misc/Github%20Images/advanced_userinfo.png?raw=true "Demo")
+![Image](/misc/images/advanced_userinfo.png?raw=true "Demo")
 
 
 
