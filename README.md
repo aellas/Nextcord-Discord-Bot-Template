@@ -5,10 +5,6 @@
         <a href="https://github.com/nextcord/nextcord">Nextcord Github</a> - <a href="https://docs.nextcord.dev/en/stable/api.html">Nextcord API Reference</a> - <a href="https://discord.com/developers/applications">Discord Developer</a> - <a href="https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-">Discord Markdown Text</a>
 </p>
 
-<p align="center">
-<br><b>Need help setting up?</b>b></br>
-Contact me on discord @lxde
-
 # Current Commands
 + `/advanced_userinfo`
 + `/basic_userinfo`
