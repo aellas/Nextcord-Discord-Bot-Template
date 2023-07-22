@@ -6,7 +6,7 @@
 </p>
 
 # Commands
-**Moderation** /n
+<br><b>=Moderation=</b></br>
 `/ban` `/kick` `/clear (messages)`
 Other
 `/advanced_userinfo`
