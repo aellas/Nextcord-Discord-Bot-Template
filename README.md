@@ -8,12 +8,8 @@
 # Commands
 <br><b>Moderation</b></br>
 `/ban` `/kick` `/clear (messages)`
-Other
-`/advanced_userinfo`
-+ `/basic_userinfo`
-+ `/serverinfo`
-+ `/ping`
-+ `/avatar`
+<br><b>Other</b></br>
+`/advanced_userinfo` `/basic_userinfo` `/serverinfo` `/ping` `/avatar`
 
 
 # Setup
