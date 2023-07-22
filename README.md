@@ -10,9 +10,9 @@
 + `/basic_userinfo`
 + `/ping`
 + `/avatar`
-+ `clear`
-+ `ban`
-+ `kick`
++ `/clear`
++ `/ban`
++ `/kick`
 
 # Setup
 + Install [Python](https://www.python.org/)
