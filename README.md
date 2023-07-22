@@ -6,13 +6,15 @@
 </p>
 
 # Commands
-+ `/advanced_userinfo`
-+ `/basic_userinfo`
-+ `/ping`
-+ `/avatar`
-+ `/clear`
-+ `/ban`
-+ `/kick`
+```
+/advanced_userinfo
+/basic_userinfo
+/ping
+/avatar
++/clear
+/ban
+/kick
+```
 
 # Setup
 + Install [Python](https://www.python.org/)
