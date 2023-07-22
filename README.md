@@ -1,5 +1,5 @@
 <p align="center">
-<b>Useful Links</b>
+<br><b>Useful Links</b></br>
         <a href="https://github.com/nextcord/nextcord">Nextcord Github</a>
 </p>
 
