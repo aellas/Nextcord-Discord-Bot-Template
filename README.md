@@ -1,5 +1,5 @@
 <p align="center">
-**Useful Links**
+<b>Useful Links</b>
 </p>
 
 # Nextcord Bot Template
