@@ -8,6 +8,9 @@
 + Edit `/json/configuration.json` and add your [token, prefix & owner_name]
 + Run project `python main.py`
 
+# Advanced Userinfo Command
+![Image](/Misc/Github%20Images/advanced_userinfo.png?raw=true "Demo")
+
 
 
 
