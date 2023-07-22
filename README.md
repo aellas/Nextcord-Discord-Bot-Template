@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<br><b>Need help setting up?<b></br>
+<br><b>Need help setting up?</b>b></br>
 Contact me on discord @lxde
 
 # Current Commands
