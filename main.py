@@ -9,8 +9,7 @@ def load_configuration():
             data = json.load(config_file)
             token = data["token"]
             prefix = data["prefix"]
-            owner_id = data["owner_name"]
-        return token, prefix, owner_id
+        return token, prefix
     except FileNotFoundError:
         logging.error("Configuration file not found.")
         return None
@@ -34,9 +33,9 @@ def load_extensions(client, extensions):
         except commands.ExtensionError as e:
             logging.error(f"Failed to load {extension}: {e}")
 
-token, prefix, owner_id = load_configuration()
+token, prefix = load_configuration()
 
-if token and prefix and owner_id:
+if token and prefix:
     intents = nextcord.Intents.default()
     intents.members = True
     intents.presences = True
@@ -53,7 +52,8 @@ if token and prefix and owner_id:
             'cogs.random.ping_pong',
             'cogs.random.avatar',
             'cogs.random.userinfo',
-            'cogs.mod.moderation'
+            'cogs.mod.moderation',
+            'cogs.random.serverinfo',
         ]
         load_extensions(client, extensions)
         client.run(token)
