@@ -1,5 +1,6 @@
 <p align="center">
 <b>Useful Links</b>
+        <a href="https://github.com/nextcord/nextcord">Nextcord Github</a>
 </p>
 
 # Nextcord Bot Template
