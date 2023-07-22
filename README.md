@@ -6,13 +6,12 @@
 </p>
 
 # Commands
-<br><b>Moderation</b></br>
++ <br><b>Moderation</b></br>
 `/ban` `/kick` `/clear (messages)`
-<br><b>Info</b></br>
++ <br><b>Info</b></br>
 `/advanced_userinfo` `/basic_userinfo` `/serverinfo` `/avatar`
-<br><b>Misc</b></br>
++ <br><b>Misc</b></br>
 `/ping`
-
 
 # Setup
 + Install [Python](https://www.python.org/)
