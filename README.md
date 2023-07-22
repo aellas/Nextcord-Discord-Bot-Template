@@ -7,13 +7,16 @@
 
 # Commands
 ```
+Moderation
+/ban
+/kick
+/clear (messages)
+
+Other
 /advanced_userinfo
 /basic_userinfo
 /ping
 /avatar
-/clear
-/ban
-/kick
 ```
 
 # Setup
