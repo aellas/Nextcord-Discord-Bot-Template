@@ -10,7 +10,7 @@
 
 # Userinfo Command
 + Upload the emojis located in `misc/emojis` and add each custom emoji to your discord server (bot must be in server to use)
-+ ![Image](/misc/images/emojis.png?raw=true "Demo")
+![Image](/misc/images/emojis.png?raw=true "Demo")
 + Grab each emoji's ID, you can do this by using `\:emoji_name:` this will output `<:emoji_name:1132376957959540757>` (change emoji_name to the name you set for each emoji)
 + Edit `cogs/random/userinfo.py` and edit this code
 ```python
@@ -42,7 +42,7 @@
 ```
 + Replace each emoji ID with yours!
 
-+ Outcome
+## Outcome
 ![Image](/misc/images/advanced_userinfo.png?raw=true "Demo")
 
 
