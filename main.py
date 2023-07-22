@@ -50,11 +50,10 @@ if token and prefix and owner_id:
     if __name__ == "__main__":
         setup_logging()
         extensions = [
-            'cogs.examples.example_command_listener_cog', 
-            'cogs.examples.example_slash_command_cog',
             'cogs.random.ping_pong',
             'cogs.random.avatar',
             'cogs.random.userinfo',
+            'cogs.mod.moderation'
         ]
         load_extensions(client, extensions)
         client.run(token)
