@@ -40,7 +40,7 @@
         if user.public_flags.verified_bot_developer:
             badges += "<:verified_bot_developer:1132379960674357248> "
 ```
-+ Replace each emoji ID with yours!
++ Replace each emoji with your `<:emoji_name:1132376957959540757>`
 
 ## Outcome
 ![Image](/misc/images/advanced_userinfo.png?raw=true "Demo")
