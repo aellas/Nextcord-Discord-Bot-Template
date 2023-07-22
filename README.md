@@ -6,10 +6,10 @@
 </p>
 
 # Commands
-+ `/ban`
-+ `/kick`
-+ `/clear (messages)`
-+ `/advanced_userinfo`
+**Moderation**
+`/ban` `/kick` `/clear (messages)`
+Other
+`/advanced_userinfo`
 + `/basic_userinfo`
 + `/serverinfo`
 + `/ping`
