@@ -11,7 +11,7 @@
 /basic_userinfo
 /ping
 /avatar
-+/clear
+/clear
 /ban
 /kick
 ```
