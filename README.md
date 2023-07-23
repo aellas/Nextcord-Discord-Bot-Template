@@ -1,4 +1,4 @@
-# Nextcord Bot Template
+# Nextcord Discord Bot Template
 
 <p align="center">
 <br><b>Useful Links</b></br>
