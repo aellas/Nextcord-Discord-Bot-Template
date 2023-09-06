@@ -6,7 +6,6 @@
 </p>
 
 # Current Commands
-
 <br><b>Moderation</b></br>
 `/ban` `/kick` `/clear (messages)`
 
