@@ -78,3 +78,6 @@ badges = ""
         if user.public_flags.verified_bot_developer:
             badges += "<:verified_bot_developer:1132379960674357248> "
 ```
+
+## Outcome
+![Image](/misc/images/advanced_userinfo.png?raw=true "Demo")
