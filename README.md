@@ -30,7 +30,7 @@ Follow these steps to set up your Discord bot using this template:
 1. Install [Python](https://www.python.org/).
 
 2. Install the required Python packages by running the following command:
-- `pip install -r requirements.txt-`
+- `pip install -r requirements.txt`
 
 3. Edit the configuration in `/json/configuration.json` to include your bot token and prefix.
 
