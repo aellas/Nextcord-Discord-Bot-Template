@@ -15,7 +15,7 @@
 <br><b>Misc</b></br>
 `/ping`
 
-# Manual Setup
+# Setup
 + Install [Python](https://www.python.org/)
 + Install requirements `pip intall -r requirements.txt`
 + Edit `/json/configuration.json` and add your [token, prefix]
