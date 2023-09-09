@@ -10,7 +10,9 @@
 ## Current Commands
 
 ### Moderation
-- `/ban` - `/kick` - `/clear (messages)`
+- `/ban`
+- `/kick`
+- `/clear (messages)`
 
 ### Info
 - `/advanced_userinfo`
