@@ -27,7 +27,6 @@
 ## Setup
 
 Follow these steps to set up your Discord bot using this template:
-
 1. Install [Python](https://www.python.org/).
 
 2. Install the required Python packages by running the following command:
