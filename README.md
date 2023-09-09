@@ -22,6 +22,7 @@
 
 ### Misc
 - `/ping`
+- `/set_bday`
 
 ## Setup
 
