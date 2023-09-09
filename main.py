@@ -67,6 +67,7 @@ if token and prefix:
             'cogs.random.userinfo',
             'cogs.mod.moderation',
             'cogs.random.serverinfo',
+            'cogs.random.happy_birthday',
         ]
         
         # Load the specified extensions (cogs)
