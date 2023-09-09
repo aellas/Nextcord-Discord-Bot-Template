@@ -28,10 +28,8 @@
 
 Follow these steps to set up your Discord bot using this template:
 1. First you'll need to install [Python](https://www.python.org/).
-- **Windows** install python from the link
-- **MacOS** install [Homebrew](https://brew.sh/) and run the command `brew install python@3`
 
-3. Install the required Python packages by running the following command:
+2. Install the required Python packages by running the following command:
 - **Windows:** `pip install -r requirements.txt`
 - **Linux/MacOS:** `pip3 install -r requirements.txt`
 
