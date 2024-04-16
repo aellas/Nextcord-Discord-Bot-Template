@@ -1,5 +1,5 @@
 <p align="center">
-# Nextcord Discord Bot Template
+<b>Nextcord Discord Bot Template</b>
 </p>
 <p align="center">
   <br><b>Useful Links</b></br>
