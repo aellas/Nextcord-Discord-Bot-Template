@@ -1,6 +1,4 @@
-<p align="center">
-<b>Nextcord Discord Bot Template</b>
-</p>
+# Nextcord Discord Bot Template</b>
 <p align="center">
   <br><b>Useful Links</b></br>
   <a href="https://github.com/nextcord/nextcord">Nextcord Github</a> -
